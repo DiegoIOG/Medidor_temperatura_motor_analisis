@@ -8,19 +8,18 @@ Se realizo la conexion a un arduino  utilizando un sensor DHT11 para poder tomar
 -SQL Server
 -Power BI
 
+
 ## Hardware usado 
 -DHT11
 -Arduino UNO
 -Cables macho-macho 
+-Protoboard
+![Arduino-DHT11](https://github.com/user-attachments/assets/b9aaaab4-ec16-403f-91d6-82573dd7328e)
 
 ## Arquitectura / Flujo del sistema 
-
 Sensor → Python → SQL → Power BI
-
-
 ## Configuración del proyecto 
 -Puerto COM
 -Conexión SQL
-
 ## Dashboard en Power BI 
-
+<img width="1301" height="720" alt="Dashboard" src="https://github.com/user-attachments/assets/285875ea-e948-40e1-8371-22b4ddc3f1d4" />
