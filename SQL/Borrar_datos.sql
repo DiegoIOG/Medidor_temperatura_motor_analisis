@@ -1,0 +1,2 @@
+DELETE FROM SensorData
+WHERE fecha < DATEADD(DAY, -30, GETDATE());

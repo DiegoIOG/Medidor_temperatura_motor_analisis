@@ -1,0 +1,1 @@
+CREATE DATABASE ETL_project;

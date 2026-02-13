@@ -1,0 +1,3 @@
+SELECT *
+FROM SensorData
+WHERE fecha >= DATEADD(HOUR, -1, GETDATE());

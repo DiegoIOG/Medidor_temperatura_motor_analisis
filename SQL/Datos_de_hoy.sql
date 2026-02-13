@@ -1,0 +1,3 @@
+SELECT *
+FROM SensorData
+WHERE CAST(fecha AS DATE) = CAST(GETDATE() AS DATE);
